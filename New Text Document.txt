@@ -1,0 +1,44 @@
+how to run code
+
+gcc "file name".c //for exe name -o Raiyan
+gcc ./Raiyan.exe
+
+
+
+code
+
+gcc -Wall -save-temps "file name" -o "exe name"
+
+will create file.i which is assembly level code
+            
+            file.s stdio attributes which it brought
+           
+            file.o binary level file
+
+
+
+ 
+scanf is a input reader better copilot read
+
+a/b floating result hole decimal baad
+
+a==b if the value is same then it will give output 1
+if not then 0
+
+
+/*
+ multi line comment
+*/
+
+shift tab in ms word
+
+array is a pattern
+
+if,loops a curl bracket na dileo hoy jokhon code 1 line
+
+
+
+
+
+
+
